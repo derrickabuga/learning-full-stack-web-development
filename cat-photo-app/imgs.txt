@@ -1,0 +1,3 @@
+First Cat Photo =  https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
+Lasagna Photo =  https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
+Cats Photo =  https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg
